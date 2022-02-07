@@ -299,7 +299,7 @@ h3.ock-tokenomics-heading-main{
 }
 
 /*How To Buy Section*/
-.ock-main-htb{
+.ock-main-projectinfo{
   background-image: url("https://onchainkitty.com/img/htb-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -340,7 +340,7 @@ transform: scale(1.05);
 }
 
 /*Community Section*/
-.ock-main-community{
+.ock-main-gallery{
   background-image: url("https://onchainkitty.com/img/community-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -693,12 +693,12 @@ transform: scale(1.05);
     background-repeat: repeat-y;
   }
   
-  .ock-main-community{
+  .ock-main-gallery{
     background-image: url("https://onchainkitty.com/img/community-bg-sm.png");
     background-attachment: unset;
   }
   
-  .ock-main-htb{
+  .ock-main-projectinfo{
     background-image: url("https://onchainkitty.com/img/htb-bg-sm.png");
     color: white;
     background-size: unset;
